@@ -11,5 +11,5 @@
 </p>
 
 Used stack: Node.js, Express, HBS, MongoDB, Mongoose, Nodemailer. <br/>
-Team: Anasyasiia Soktoeva, Anton Sipin, Gayane Zurnachyan.
+Team: Anasyasiia Soktoeva, Anton Sipin, Gayane Zurnachyan.<br/>
 https://travelbudgetweb.herokuapp.com/
