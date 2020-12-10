@@ -10,6 +10,6 @@
 <img width="400" height="400" src="https://github.com/anastasiiasok/travelBudget/blob/main/public/img/register.png">
 </p>
 
-Used stack: Node.js, Express, HBS, MongoDB, Mongoose, Nodemailer. <br/>
+**Used stack:** Node.js, Express, HBS, MongoDB, Mongoose, Nodemailer. <br/>
 Team: Anasyasiia Soktoeva, Anton Sipin, Gayane Zurnachyan.<br/>
 https://travelbudgetweb.herokuapp.com/
