@@ -3,9 +3,9 @@
 <p align="center">
   <img width="460" height="300" src="https://github.com/anastasiiasok/travelBudget/blob/main/public/ourapp.png">
 </p>
-<p align="center">
-## Registration:
-  </p>
+
+## Registration
+
 <p align="center">
 <img width="400" height="400" src="https://github.com/anastasiiasok/travelBudget/blob/main/public/img/register.png">
 </p>
